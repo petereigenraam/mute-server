@@ -1,1 +1,1 @@
-web: gunicorn --config=gunicorn.py mute.wsgi:application
+web: gunicorn --config=gunicorn_config.py mute.wsgi:application
