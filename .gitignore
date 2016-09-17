@@ -1,0 +1,14 @@
+*.db
+*.sqlite
+*.pyc
+*.pyo
+
+.cache/
+.coverage
+.env
+.project
+.pydevproject
+.ropeproject/
+.settings/
+.DS_Store
+.idea/
